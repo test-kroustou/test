@@ -3,3 +3,4 @@ hello again
 hello three
 hello four from bot?
 hello five from bot
+hello six
