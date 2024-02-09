@@ -4,3 +4,6 @@ hello three
 hello four from bot?
 hello five from bot
 hello six
+
+
+new day, new me, new rules
